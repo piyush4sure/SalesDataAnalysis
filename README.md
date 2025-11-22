@@ -99,7 +99,7 @@ Created 6 different visualizations:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/piyush4sure/SalesDataAnalysi.git
-   cd ecommerce-analysis
+   cd SalesDataAnalysi
    ```
 
 2. **Install required packages:**
