@@ -1,0 +1,15 @@
+date,product,category,city,quantity,unit_price
+2024-01-01,Headphones,Electronics,Mumbai,2,1500
+2024-01-01,Mouse,Electronics,Delhi,5,500
+2024-01-02,Keyboard,Electronics,Bangalore,3,1200
+2024-01-02,Headphones,Electronics,Mumbai,1,1500
+2024-01-03,T-Shirt,Clothing,Mumbai,4,700
+2024-01-03,Shoes,Clothing,Delhi,2,2200
+2024-01-04,Headphones,Electronics,Pune,1,1500
+2024-01-04,T-Shirt,Clothing,Bangalore,2,700
+2024-01-05,Mouse,Electronics,Mumbai,,500
+2024-01-05,Shoes,Clothing,Delhi,1,2200
+2024-01-06,Keyboard,Electronics,Mumbai,3,1200
+2024-01-06,T-Shirt,Clothing,Delhi,4,700
+2024-01-07,Headphones,Electronics,Bangalore,2,1500
+2024-01-07,Mouse,Electronics,Pune,3,500
