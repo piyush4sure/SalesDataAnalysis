@@ -98,7 +98,7 @@ Created 6 different visualizations:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/piyush4sure/ecommerce-analysis.git
+   git clone https://github.com/piyush4sure/SalesDataAnalysi.git
    cd ecommerce-analysis
    ```
 
